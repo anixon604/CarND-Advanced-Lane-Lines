@@ -1,5 +1,5 @@
 # Self-Driving Car Engineer Nanodegree
-# Perspective Transforms and Classifiers
+# Perspective Transforms and Polyfit
 ## Project: Advanced Lane Finding
 
 [![Video of the trained solution](./output_images/FinalScreenshot.png)](https://www.youtube.com/watch?v=KcGjQF8pR6Y)
